@@ -17,3 +17,20 @@ High-dimensional time series increasingly arise in the Internet of Energy (IoE),
 ## References
 
 H.V. Bitencourt, L.A.F. De Souza, M.C. Dos Santos, R. Silva, E. De Lima, P.C. Silva, et al. Combining embeddings and fuzzy time series for high-dimensional time series forecasting in internet of energy applications Energy, 271 (2023), Article 127072, 10.1016/j.energy.2023.127072
+
+Please cite using the following BibTex entry:
+
+```
+@article{Bitencourt2023EFTS,
+title = {Combining embeddings and fuzzy time series for high-dimensional time series forecasting in internet of energy applications},
+journal = {Energy},
+volume = {271},
+pages = {127072},
+year = {2023},
+issn = {0360-5442},
+doi = {https://doi.org/10.1016/j.energy.2023.127072},
+url = {https://www.sciencedirect.com/science/article/pii/S0360544223004668},
+author = {Hugo Vinicius Bitencourt and Luiz Augusto Facury {de Souza} and Matheus Cascalho {dos Santos} and Rodrigo Silva and Petrônio Cândido {de Lima e Silva} and Frederico Gadelha Guimarães},
+keywords = {Multivariate time series, Fuzzy time series, Embedding transformation, Time series forecasting, Smart buildings, Internet of energy},
+}
+```
